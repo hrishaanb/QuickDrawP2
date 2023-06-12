@@ -1,0 +1,28 @@
+#score {
+    margin-left: 30px;
+    font-size: 50px;
+    font-weight: bold;
+}
+body {
+    background-color: limegreen;
+    font-family: 'Delicious Handrawn', cursive;
+}
+#time {
+    margin-left: 730px;
+    font-size: 50px;
+    font-weight: bold;
+}
+#title {
+    font-size: 100px;
+    border-radius: 25px;
+}
+#sketch {
+    color: red;
+}
+#sketch, #confidence, #label {
+    font-size: 40px;
+}
+canvas {
+    border-radius: 15px;
+    margin-left: 625px;
+}
